@@ -1,0 +1,80 @@
+Category: Beauty Products
+Name: Face Wash | Price: ₱23.0 | Stock: 0
+Name: Face Mask | Price: ₱89.0 | Stock: 23
+Name: Lip Balm | Price: ₱45.0 | Stock: 30
+Name: Hand Cream | Price: ₱60.0 | Stock: 20
+Name: Makeup Remover Wipes | Price: ₱75.0 | Stock: 0
+Name: Facial Mist | Price: ₱99.0 | Stock: 0
+Name: Compact Mirror | Price: ₱50.0 | Stock: 12
+Name: Eyebrow Pencil | Price: ₱70.0 | Stock: 22
+Name: Nail Polish | Price: ₱55.0 | Stock: 28
+Name: Item Sheet Mask | Price: ₱29.0 | Stock: 30
+-
+
+Category: Electronics
+Name: Earphones | Price: ₱199.0 | Stock: 23
+Name: Bluetooth Speaker | Price: ₱699.0 | Stock: 0
+Name: USB Cable | Price: ₱49.0 | Stock: 30
+Name: Power Bank | Price: ₱599.0 | Stock: 20
+Name: Wireless Mouse | Price: ₱199.0 | Stock: 0
+Name: Phone Stand | Price: ₱120.0 | Stock: 25
+Name: Phone Case | Price: ₱150.0 | Stock: 22
+Name: LED Desk Lamp | Price: ₱350.0 | Stock: 10
+Name: Smartwatch | Price: ₱999.0 | Stock: 0
+Name: Headphones | Price: ₱399.0 | Stock: 17
+-
+
+Category: Accessories
+Name: Hat | Price: ₱199.0 | Stock: 23
+Name: Sunglasses | Price: ₱150.0 | Stock: 18
+Name: Tote Bag | Price: ₱299.0 | Stock: 0
+Name: Wallet | Price: ₱399.0 | Stock: 15
+Name: Hairband | Price: ₱99.0 | Stock: 0
+Name: Scarf | Price: ₱180.0 | Stock: 25
+Name: Watch | Price: ₱250.0 | Stock: 12
+Name: Bracelet | Price: ₱120.0 | Stock: 0
+Name: Keychain | Price: ₱50.0 | Stock: 35
+Name: Socks (Set of 3) | Price: ₱120.0 | Stock: 0
+Name: Asdas | Price: ₱231.0 | Stock: 12
+-
+
+Category: Drinks
+Name: Bottled Water | Price: ₱25.0 | Stock: 0
+Name: Green Tea | Price: ₱45.0 | Stock: 25
+Name: Iced Tea | Price: ₱55.0 | Stock: 20
+Name: Lemonade | Price: ₱60.0 | Stock: 18
+Name: Milk Tea | Price: ₱75.0 | Stock: 22
+Name: Sparkling Water | Price: ₱80.0 | Stock: 15
+Name: Fruit Juice (Orange) | Price: ₱65.0 | Stock: 0
+Name: Fruit Juice (Apple) | Price: ₱65.0 | Stock: 18
+Name: Coffee | Price: ₱85.0 | Stock: 12
+Name: Coconut Water | Price: ₱90.0 | Stock: 0
+-
+
+Category: Stationery
+Name: Pencil | Price: ₱29.0 | Stock: 0
+Name: Notebook | Price: ₱65.0 | Stock: 0
+Name: Eraser | Price: ₱15.0 | Stock: 75
+Name: Ruler | Price: ₱25.0 | Stock: 50
+Name: Ballpoint Pen | Price: ₱35.0 | Stock: 60
+Name: Highlighter | Price: ₱40.0 | Stock: 40
+Name: Stapler | Price: ₱120.0 | Stock: 30
+Name: Paper Clips (Pack) | Price: ₱20.0 | Stock: 0
+Name: Scissors | Price: ₱50.0 | Stock: 25
+Name: Sticky Notes | Price: ₱55.0 | Stock: 70
+-
+
+Category: Toys
+Name: Snoopy Plush Toy | Price: ₱299.0 | Stock: 34
+Name: Teddy Bear | Price: ₱250.0 | Stock: 40
+Name: Stuffed Cat | Price: ₱220.0 | Stock: 0
+Name: Doll | Price: ₱150.0 | Stock: 0
+Name: Puzzle Set | Price: ₱99.0 | Stock: 60
+Name: Building Blocks | Price: ₱180.0 | Stock: 0
+Name: Mini Action Figure | Price: ₱100.0 | Stock: 45
+Name: Plush Bunny | Price: ₱270.0 | Stock: 18
+Name: Play Dough Set | Price: ₱120.0 | Stock: 0
+Name: Toy Car | Price: ₱170.0 | Stock: 22
+Name: We Bear Bares | Price: ₱19.0 | Stock: 43
+-
+

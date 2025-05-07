@@ -1,0 +1,8 @@
+com\mycompany\storeinventorychecker\itemMethods.class
+com\mycompany\storeinventorychecker\inventoryMethods.class
+com\mycompany\storeinventorychecker\categoryMethods.class
+com\mycompany\storeinventorychecker\CategoryRequirement.class
+com\mycompany\storeinventorychecker\Categories.class
+com\mycompany\storeinventorychecker\stockMethods.class
+com\mycompany\storeinventorychecker\checker.class
+com\mycompany\storeinventorychecker\StoreInventoryChecker.class
